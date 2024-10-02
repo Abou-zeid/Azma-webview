@@ -1,0 +1,2 @@
+rootProject.name = "Azma Data"
+include ':app'
